@@ -37,24 +37,16 @@
 
 ## 📈 GitHub Stats
 <div align="center">
+
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Shivam8286&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=10" width="48%" alt="GitHub Stats" />
-
-  <!-- GitHub Streak -->
-  ## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shivam8286&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
- 
-
 </div>
 
+<!-- Top Languages -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam8286&layout=compact&theme=radical&hide_border=true&border_radius=10" width="50%" alt="Top Languages" />
 </div>
+
 
 
 ---
