@@ -98,5 +98,6 @@
 </p>
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://shivam8286.github.io/shivam8286/github-contribution-grid-snake.svg)
+![snake gif](https://shivam8286.github.io/Shivam8286/github-contribution-grid-snake.svg)
+
 
