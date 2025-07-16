@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <b>🚀 Aspiring DevOps Engineer | Data Science Enthusiast | Lifelong Learner</b>
+  <b>🚀 Aspiring DevOps Engineer | full stack  Enthusiast | Lifelong Learner</b>
 </p>
 
 <p align="center">
