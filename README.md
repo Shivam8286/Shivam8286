@@ -36,9 +36,6 @@
 ---
 
 ## 📈 GitHub Stats
-
-## 📈 GitHub Stats
-
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Shivam8286&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=10" width="48%" alt="GitHub Stats" />
