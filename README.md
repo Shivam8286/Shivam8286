@@ -96,3 +96,4 @@
   <b>“Continuous learning and adaptation are the keys to innovation.”</b> <br>
   <i>Thanks for visiting my profile! 🚀</i>
 </p>
+![snake gif](https://github.com/Shivam8286/Shivam8286/blob/output/github-contribution-grid-snake.gif)
