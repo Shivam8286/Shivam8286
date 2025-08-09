@@ -1,16 +1,13 @@
-
-
-<h1 align="center">Hey, I'm Shivam 👋 | Building the Cloud, Automating the Future</h1>
+<h1 align="center">🌩️ Hey, I'm Shivam 👋 | Building the Cloud, Automating the Future 🚀</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7004C&center=true&vCenter=true&width=600&height=80&lines=DevOps+Engineer+in+Progress...;Full+Stack+Explorer;Cloud+Enthusiast+☁;Lifelong+Learner+📚;Open+Source+Contributor+💻" />
-
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7004C&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7004C&height=150&section=header&text=☁%20Automating%20the%20Cloud%2C%20One%20Commit%20at%20a%20Time%20🚀&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 </p>
 
 ---
@@ -27,25 +24,27 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
-
-| DevOps | Languages | Frontend | Backend | Tools | DB |
-|:------:|:---------:|:--------:|:-------:|:-----:|:--:|
-| ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white) <br> ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?logo=google-cloud&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-%23000.svg?logo=linux&logoColor=white) | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) <br> ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JS-%23F7DF1E.svg?logo=javascript&logoColor=black) | ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?logo=visual-studio-code&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white) |
-
-</div>
-
----
-
-## 📈 GitHub Stats
-<!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7004C&center=true&vCenter=true&width=700&lines=DevOps+Engineer+in+Progress...;Full+Stack+Explorer;Cloud+Enthusiast+☁;Lifelong+Learner+📚;Open+Source+Contributor+💻" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,python,js,nodejs,react,html,css,git,github,mongodb,mysql,vscode" />
 </p>
 
 ---
 
-<!-- GitHub Stats -->
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Shivam8286/YOUR_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam8286&repo=YOUR_REPO&theme=radical" />
+  </a>
+  <a href="https://github.com/Shivam8286/YOUR_REPO2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam8286&repo=YOUR_REPO2&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivam8286&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=10" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam8286&theme=radical&hide_border=true&border_radius=10" width="48%" alt="GitHub Streak Stats" />
@@ -53,27 +52,23 @@
 
 ---
 
-<!-- Contribution Graph -->
+## 📊 Activity & Languages
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam8286&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
----
-
-<!-- Languages Pie Chart -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam8286&layout=pie&theme=radical&hide_border=true&border_radius=10" alt="Top Languages Pie Chart" />
 </p>
 
 ---
 
-<!-- Profile Trophies -->
+## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shivam8286&theme=radical&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
-
-
-
 
 ---
 
@@ -81,6 +76,22 @@
 
 <p align="center">
   <img src="https://shivam8286.github.io/Shivam8286/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
+## 💡 Random Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shivam8286&color=F7004C&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
