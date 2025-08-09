@@ -2,7 +2,7 @@ name: Generate Snake & 3D Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
+    - cron: "0 0 * * *" # Runs daily
   workflow_dispatch:
 
 jobs:
@@ -10,26 +10,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout repository
       - name: Checkout
         uses: actions/checkout@v4
 
-      # 2️⃣ Generate Snake Graph
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate Snake Graph
+        uses: platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      # 3️⃣ Generate 3D Contribution Calendar
       - name: Generate 3D Contribution Calendar
-        uses: yoshi389111/github-profile-3d-contrib@0.7
-        with:
-          username: Shivam8286   # <-- Replace with your GitHub username if different
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
-      # 4️⃣ Push generated files to output branch
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
