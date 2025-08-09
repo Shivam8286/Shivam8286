@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7004C&height=150&section=header&text=☁%20Automating%20the%20Cloud%2C%20One%20Commit%20at%20a%20Time%20🚀&fontColor=ffffff&fontSize=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:ff005c&height=150&section=header&text=☁%20Automating%20the%20Cloud%2C%20One%20Commit%20at%20a%20Time%20🚀&fontColor=ffffff&fontSize=30&animation=fadeIn" />
 </p>
 
 ---
@@ -36,13 +36,11 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[🚀 Personal Portfolio Website](https://github.com/Shivam8286/personal-portfolio-website)**<br>[🔗 Live Demo](https://shivam8286.github.io/personal-portfolio-website/) | A sleek, fully responsive personal portfolio website built with HTML, CSS, and JavaScript to showcase projects, skills, and achievements. | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) |
-| **[🛠 Employee Management (Dockerized)](https://github.com/Shivam8286/Employee-Management-Docker)** | A containerized Employee Management System using Docker and Node.js for seamless deployment, easy scaling, and consistent development environments. | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white) |
-| **[🤖 Resume Job Matcher](https://github.com/Shivam8286/resume-job-matcher)** | An AI-powered tool that uses Natural Language Processing (NLP) to match resumes with job descriptions, helping recruiters find the perfect candidate faster. | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-%2300BFFF.svg) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg) |
+| **[🚀 Personal Portfolio Website](https://github.com/Shivam8286/personal-portfolio-website)**<br>[🔗 Live Demo](https://shivam8286.github.io/personal-portfolio-website/) | A sleek, fully responsive personal portfolio to showcase projects, skills, and achievements. | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) |
+| **[🛠 Employee Management (Dockerized)](https://github.com/Shivam8286/Employee-Management-Docker)** | A containerized Employee Management System using Docker and Node.js for scalable deployments. | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white) |
+| **[🤖 Resume Job Matcher](https://github.com/Shivam8286/resume-job-matcher)** | AI-powered NLP tool to match resumes with job descriptions for faster hiring. | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-%2300BFFF.svg) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg) |
+
 </div>
-
-
-
 
 ---
 
@@ -58,7 +56,7 @@
 ## 📊 Activity & Languages
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam8286&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam8286&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
@@ -67,18 +65,26 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📅 Vertical Contribution Calendar
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivam8286&theme=radical&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/Shivam8286/Shivam8286/output/github-contribution-grid-snake-vertical-dark.svg" alt="Vertical Contribution Calendar" />
 </p>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://shivam8286.github.io/Shivam8286/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Shivam8286/Shivam8286/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivam8286&theme=radical&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -116,5 +122,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7004C&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:ff005c&height=150&section=footer" />
 </p>
