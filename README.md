@@ -32,21 +32,15 @@
 
 ## 📂 Featured Projects
 
-### 🚀 Personal Portfolio Website  
-A sleek, fully responsive personal portfolio website built with HTML, CSS, and JavaScript to showcase projects, skills, and achievements.  
-🔗 [Live Demo](https://shivam8286.github.io/personal-portfolio-website/) | 📂 [Source Code](https://github.com/Shivam8286/personal-portfolio-website)
+<div align="center">
 
----
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[🚀 Personal Portfolio Website](https://github.com/Shivam8286/personal-portfolio-website)**<br>[🔗 Live Demo](https://shivam8286.github.io/personal-portfolio-website/) | A sleek, fully responsive personal portfolio website built with HTML, CSS, and JavaScript to showcase projects, skills, and achievements. | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) |
+| **[🛠 Employee Management (Dockerized)](https://github.com/Shivam8286/Employee-Management-Docker)** | A containerized Employee Management System using Docker and Node.js for seamless deployment, easy scaling, and consistent development environments. | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white) |
+| **[🤖 Resume Job Matcher](https://github.com/Shivam8286/resume-job-matcher)** | An AI-powered tool that uses Natural Language Processing (NLP) to match resumes with job descriptions, helping recruiters find the perfect candidate faster. | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-%2300BFFF.svg) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg) |
+</div>
 
-### 🛠 Employee Management (Dockerized)  
-A containerized Employee Management System using Docker and Node.js for seamless deployment, easy scaling, and consistent development environments.  
-📂 [Source Code](https://github.com/Shivam8286/Employee-Management-Docker)
-
----
-
-### 🤖 Resume Job Matcher  
-An AI-powered tool that uses Natural Language Processing (NLP) to match resumes with job descriptions, helping recruiters find the perfect candidate faster.  
-📂 [Source Code](https://github.com/Shivam8286/resume-job-matcher)
 
 
 
