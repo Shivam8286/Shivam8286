@@ -13,6 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Snake Graph
       - name: Generate Snake Graph
         uses: platane/snk@v3
         with:
@@ -21,15 +22,21 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
+      # 3D Contribution Calendar
       - name: Generate 3D Contribution Calendar
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      # Commit and push both outputs
       - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B output
+          mkdir -p dist
+          cp -r profile-3d-contrib/* dist/ || true
+          git add dist
+          git commit -m "Update snake and 3D calendar" || echo "No changes to commit"
+          git push origin output --force
