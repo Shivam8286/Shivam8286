@@ -1,25 +1,27 @@
-name: Generate Snake
+name: Generate Contribution Animations
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake SVG
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake (Horizontal) & Vertical Calendar
         uses: Platane/snk@v3
         with:
           github_user_name: Shivam8286
           outputs: |
-            dist/github-contribution-grid-snake.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-vertical-dark.svg?palette=github-dark&orientation=vertical
 
-      - name: Deploy to output branch
+      - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
