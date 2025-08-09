@@ -65,11 +65,11 @@
 
 ---
 
-## 📅 Vertical Contribution Calendar
-
+## 📊 3D Contributions Calendar
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shivam8286/Shivam8286/output/github-contribution-grid-snake-vertical-dark.svg" alt="Vertical Contribution Calendar" />
+  <img src="https://raw.githubusercontent.com/Shivam8286/Shivam8286/output/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Calendar" />
 </p>
+
 
 ---
 
