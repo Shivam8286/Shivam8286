@@ -36,10 +36,14 @@
   <a href="https://github.com/Shivam8286/personal-portfolio-website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam8286&repo=personal-portfolio-website&theme=radical" />
   </a>
-  <a href="https://github.com/Shivam8286/YOUR_REPO2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam8286&repo=YOUR_REPO2&theme=radical" />
+  <a href="https://github.com/Shivam8286/Employee-Management-Docker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam8286&repo=Employee-Management-Docker&theme=radical" />
+  </a>
+  <a href="https://github.com/Shivam8286/resume-job-matcher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam8286&repo=resume-job-matcher&theme=radical" />
   </a>
 </p>
+
 
 ---
 
