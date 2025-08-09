@@ -64,8 +64,12 @@
 </p>
 
 ---
-![3D Calendar](https://raw.githubusercontent.com/USERNAME/REPO/output/dist/profile-3d-contrib/profile-green.svg)
-![Snake animation](https://raw.githubusercontent.com/USERNAME/REPO/output/dist/snake.svg)
+## 🐍 My Contributions Snake
+![Snake animation](https://raw.githubusercontent.com/Shivam8286/Shivam8286/output/dist/snake.svg)
+
+## 📊 3D Contribution Calendar
+![3D Calendar](https://raw.githubusercontent.com/Shivam8286/Shivam8286/output/dist/profile-green.svg)
+
 
 
 
