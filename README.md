@@ -30,19 +30,24 @@
 
 ---
 
-## 📌 Featured Projects
+## 📂 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Shivam8286/personal-portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam8286&repo=personal-portfolio-website&theme=radical" />
-  </a>
-  <a href="https://github.com/Shivam8286/Employee-Management-Docker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam8286&repo=Employee-Management-Docker&theme=radical" />
-  </a>
-  <a href="https://github.com/Shivam8286/resume-job-matcher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivam8286&repo=resume-job-matcher&theme=radical" />
-  </a>
-</p>
+### 🚀 Personal Portfolio Website  
+A sleek, fully responsive personal portfolio website built with HTML, CSS, and JavaScript to showcase projects, skills, and achievements.  
+🔗 [Live Demo](https://shivam8286.github.io/personal-portfolio-website/) | 📂 [Source Code](https://github.com/Shivam8286/personal-portfolio-website)
+
+---
+
+### 🛠 Employee Management (Dockerized)  
+A containerized Employee Management System using Docker and Node.js for seamless deployment, easy scaling, and consistent development environments.  
+📂 [Source Code](https://github.com/Shivam8286/Employee-Management-Docker)
+
+---
+
+### 🤖 Resume Job Matcher  
+An AI-powered tool that uses Natural Language Processing (NLP) to match resumes with job descriptions, helping recruiters find the perfect candidate faster.  
+📂 [Source Code](https://github.com/Shivam8286/resume-job-matcher)
+
 
 
 ---
