@@ -2,7 +2,8 @@
 
 <h1 align="center">Hey, I'm Shivam 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7004C&center=true&vCenter=true&multiline=true&width=600&height=80&lines=DevOps+Engineer+in+Progress...;Full+Stack+Explorer;Cloud+Enthusiast+☁;Lifelong+Learner+📚;Open+Source+Contributor+💻" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7004C&center=true&vCenter=true&width=600&height=80&lines=DevOps+Engineer+in+Progress...;Full+Stack+Explorer;Cloud+Enthusiast+☁;Lifelong+Learner+📚;Open+Source+Contributor+💻" />
+
 </p>
 
 ---
