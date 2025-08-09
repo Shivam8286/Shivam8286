@@ -65,10 +65,12 @@
 
 ---
 
-## 📊 3D Contributions Calendar
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shivam8286/Shivam8286/output/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Calendar" />
-</p>
+### 🗻 3D Contribution Calendar
+![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/Shivam8286/Shivam8286/blob/output/snake.svg)
+
 
 
 ---
