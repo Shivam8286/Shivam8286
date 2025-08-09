@@ -16,18 +16,22 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Shivam8286   # Your GitHub username here
+          USERNAME: Shivam8286  # Replace with your GitHub username
+
+      - name: List generated files for debugging
+        run: |
+          echo "Generated files:"
+          ls -R
 
       - name: Copy 3D Calendar to dist/
         run: |
           mkdir -p dist
-          cp -r profile-3d-contrib/* dist/ || echo "No 3D calendar files found"
+          cp -r profile-3d-contrib/* dist/ || echo "⚠ No 3D calendar files found"
 
       - name: Commit and push 3D calendar
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -B output
           git add dist
           git commit -m "Update 3D contribution calendar" || echo "No changes to commit"
-          git push origin output --force
+          git push
