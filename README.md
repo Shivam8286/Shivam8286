@@ -64,21 +64,18 @@
 </p>
 
 ---
+### 🗓 3D Contribution Calendar
+
 ![3D Contribution Calendar](https://raw.githubusercontent.com/Shivam8286/Shivam8286/main/dist/profile-gitblock.svg)
-
-
-
-
-
-
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shivam8286/Shivam8286/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+
+ ![Snake animation dark](https://raw.githubusercontent.com/Shivam8286/Shivam8286/main/dist/snake-dark.svg)
+
+
 
 ---
 
