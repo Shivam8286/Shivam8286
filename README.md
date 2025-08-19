@@ -25,7 +25,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,python,js,nodejs,react,html,css,git,github,mongodb,mysql,vscode,terraform" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,jenkins,linux,python,js,nodejs,react,html,css,git,github,mongodb,mysql,vscode,terraform" />
 </p>
 
 ---
